@@ -1,0 +1,10 @@
+spring:
+    profiles: dev
+    data:
+        mongodb:
+            host: localhost
+            port: 27017
+            database: terapio
+            
+server:
+    port: 8080
