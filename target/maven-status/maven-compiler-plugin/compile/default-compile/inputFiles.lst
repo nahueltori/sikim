@@ -1,5 +1,6 @@
 /home/nahuel/code/sikim/src/main/java/sikim/Paciente.java
 /home/nahuel/code/sikim/src/main/java/sikim/Actividad.java
+/home/nahuel/code/sikim/src/main/java/sikim/SimpleCORSFilter.java
 /home/nahuel/code/sikim/src/main/java/sikim/Tratamiento.java
 /home/nahuel/code/sikim/src/main/java/sikim/PacienteRepository.java
 /home/nahuel/code/sikim/src/main/java/sikim/MyConfiguration.java
