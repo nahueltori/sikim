@@ -1,7 +1,6 @@
-sikim/MyConfiguration.class
 sikim/Actividad.class
-sikim/SimpleCORSFilter.class
 sikim/Tratamiento.class
 sikim/Paciente.class
+sikim/RestConfiguration.class
 sikim/Application.class
 sikim/PacienteRepository.class
